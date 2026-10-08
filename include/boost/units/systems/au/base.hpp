@@ -1,4 +1,3 @@
-
 #ifndef BOOST_UNITS_AU_BASE_HPP
 #define BOOST_UNITS_AU_BASE_HPP
 
